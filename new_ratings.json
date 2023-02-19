@@ -1,0 +1,5 @@
+[{"user_id": 9, "film_id": 5, "rating": 10}, {"user_id": 2, "film_id": 5, "rating": 8}, {"user_id": 4, "film_id": 2, "rating": 3}, {"user_id": 5, "film_id": 8, "rating": 3}, 
+{"user_id": 7, "film_id": 9, "rating": 3}, {"user_id": 6, "film_id": 10, "rating": 4}, {"user_id": 4, "film_id": 11, "rating": 6}, {"user_id": 10, "film_id": 14, "rating": 8}, 
+{"user_id": 2, "film_id": 20, "rating": 5}, {"user_id": 7, "film_id": 99, "rating": 8}, {"user_id": 3, "film_id": 1000, "rating": 7}, 
+{"user_id": 3, "film_id": 1000, "rating": 7}, {"user_id": 3, "film_id": 1000, "rating": 8}, {"user_id": 6, "film_id": 488, "rating": 3}, 
+{"user_id": 8, "film_id": 488, "rating": 4}, {"user_id": 10, "film_id": 488, "rating": 5}, {"user_id": 5, "film_id": 488, "rating": 6}]
